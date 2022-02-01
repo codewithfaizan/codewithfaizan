@@ -9,7 +9,7 @@
 
 💡 &nbsp; I'm a software developer and researcher at Credit Suisse, working on production of trading applications using the .NET framework. \
 💻 &nbsp;I'm currently performing research in the field of multimodal detection of human behavioral patterns at VNIT, Nagpur.\
-🎓&nbsp;I graduated form Visvesvaraya National Institute of Technology, Nagpur (B.Tech, Computer Science and Engineering, Batch of 2021).\
+🎓&nbsp;I am in my 3rd year of Computer Science Engineering purs.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Homomorphic Encryption, and Computer Vision.\
 ✍️ &nbsp;In my free time, I play guitar, football and pursue writing as my hobbies.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
