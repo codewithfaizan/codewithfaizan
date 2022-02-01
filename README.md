@@ -3,8 +3,6 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{codewithfaizan}/count.svg)
 
-[![GitHub codewithfaizan](https://github.com/codewithfaizan)&nbsp;
-![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I am a coding enthusiast in the area of web development, web designing. I am also interested in graphic designing  \
