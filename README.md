@@ -5,10 +5,10 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I am a coding enthusiast in the area of web development, web designing. I am also interested in graphic designing  \
-💻 &nbsp;I'm currently studying for my 5th semister in the 3rd year of Computer Science Engineering..\
+💡 &nbsp; I am a coding enthusiast in the area of web development, web designing.Code for India Cohort A22  \
+💻 &nbsp;I'm currently pursuing my 3rd year in Computer Science Engineering..\
 🎓&nbsp;I am on the road to become a good programmer and work for an open source community. \
-🌱 &nbsp;I'm also interested in CryptoCurrency, Stocks, and digital networking.\
+🌱 &nbsp;I'm also interested in Cryptography.\
 ✉️ &nbsp; My email mohddfaizan@gmail.com \
 
 
