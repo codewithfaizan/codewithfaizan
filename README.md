@@ -23,7 +23,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<img src="https://api.daily.dev/devcards/b6664f435dc943cbae73b0c5b96dd48b.png?r=zq0" width='60' align="right"/>
+<img src="https://api.daily.dev/devcards/b6664f435dc943cbae73b0c5b96dd48b.png?r=zq0" width='600' align="right"/>
 
 ### 📫 &nbsp; How to reach me:
 
