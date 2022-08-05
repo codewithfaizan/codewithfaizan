@@ -6,7 +6,7 @@
 💡 &nbsp; I am a coding enthusiast in the area of web development, web designing. Currently enrolled in Cohort A22 Code for India Foundation  \
 💻 &nbsp; I'm pursuing my 3rd year in Computer Science Engineering..\
 🎓&nbsp;  I am on the road to become a good programmer. \
-🌱 &nbsp; I'm also interested in Cryptography, UI UX Design.\
+🌱 &nbsp; I'm also interested in Operating Systems, Computer Networks UI UX Design.\
 ✉️ &nbsp; My email mohddfaizan@gmail.com \
 
 
