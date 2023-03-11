@@ -1,5 +1,5 @@
 
-### <img src="logo.png" width='1000' align="center"/>
+### <img src="logo.png" width='1100' align="center"/>
 <h1 align = "center">Developer</h1>
 
 ### &nbsp; <h2 >About me</h1>
