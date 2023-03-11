@@ -11,19 +11,20 @@
  ### &nbsp; <h2> Experience </h2>
  - Scholar at Code For India Foundation (Cohort A22) where I learned Web Development in <br> &nbsp;
     MERN Stack where I have built Projects like Font Converter, Github Search Engine,  &nbsp; <br> Book Management System, Task Management Application etc 
-  <img src = "cfi.png" width ='auto' height = '90' align="right"/> &nbsp;
+  <img src = "cfi.png" width ='auto' height = '90' align="right"/> &nbsp; 
   - Participated in various interstate and national Hackathons online and offline. <br>
   - Attended Events and meetups related to Web3 and Design. 
-
-
-### 🛠 &nbsp;Technologies and Tools
+ 
+ <br>
+ 
+### &nbsp; <h2>Technologies and Tools</h2>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 
 ### &nbsp; <h2>Projects </h2>
 
 
-### 📫 &nbsp; <h2>Connect with me </h2>
+### &nbsp; <h2 >Connect with me </h2>
  
 <div align="center">
 <a href="https://github.com/codewithfaizan" target="_blank">
@@ -35,14 +36,11 @@
 <a href="https://www.linkedin.com/in/mohammed-faizan-8390931aa/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
 </div> 
 
-<div align = 'center' > <h3>Mail to :</h3>
-<a href="mailto:faizanoic.com@gmail.com">faizanoic.com@gmail.com</a> 
+### <h3>Mail to :</h3><a href="mailto:faizanoic.com@gmail.com">faizanoic.com@gmail.com</a> &nbsp;
 
-</div>&nbsp;
+<!-- <p>Mail id 2:<a href="mailt@gmail.com">faizanoic.com@gmail.com</a>  -->
+&nbsp;
 
 ### &nbsp;<h2>Github Stats</h2>
