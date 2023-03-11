@@ -1,13 +1,14 @@
 
 ### <img src="name3.jpeg.jpg" width='1000' align="center"/>
+<h1 align = "center">Developer</h1>
 
-### &nbsp; <h3 align = "center"> About me</h1>
+### &nbsp; <h2 >About me</h1>
 
- I am Mohammed Faizan, learning Full Stack Web Development in MERN Stack. I am a currently in the final year of Computer Science Engineering. I live in Hyderabad, India. I am DESIGN enthusiast.\
+ - I am Mohammed Faizan, learning Full Stack Web Development in MERN Stack. I am a currently in the final year of Computer Science Engineering. I live in Hyderabad, India. I am DESIGN enthusiast.
+ 
 
-&nbsp;  I am looking out for opportunities to learn relearn skillsets in Web dev and participation in Projects. \
-&nbsp; I'm also interested in Operating systems, Computer Networks UI UX Design.\
-&nbsp; My email mohddfaizan@gmail.com \
+I am looking out for opportunities to learn relearn skillsets in Web dev and participation in Projects.
+
 
 
 ### 🛠 &nbsp;Tech Stack
