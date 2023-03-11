@@ -8,10 +8,10 @@
  - I have worked on various Projects build on MERN Stack that helped me gain understanding in Web and now I am currently focusing on Frontend Technology. I am DESIGN enthusiast and I also Design User Interfaces( UI ) on Figma.
  - I am looking out for opportunities to learn-relearn skillsets in Web dev and open to participate in Projects.
 
- ### &nbsp; <h2> Experience </h2>
- - Scholar at Code For India Foundation (Cohort A22) where I learned Web Development in <br> &nbsp;
+ ### &nbsp; <h2> Experience </h2>  <img src = "cfi.png" width ='auto' height = '90' align="right"/> &nbsp;
+ - Scholar at Code For India Foundation (Cohort A22) where I learned Web Development in <br>
     MERN Stack where I have built Projects like Font Converter, Github Search Engine,  &nbsp; <br> Book Management System, Task Management Application etc 
-  <img src = "cfi.png" width ='280' height = '100' align="right"/> &nbsp;
+ 
   - Participated in various interstate and national Hackathons online and offline. <br>
   - Attended Events and meetups related to Web3 and Design. 
 
