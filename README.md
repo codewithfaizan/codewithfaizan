@@ -5,7 +5,7 @@
 
  I am Mohammed Faizan, learning Full Stack Web Development in MERN Stack. I am a currently in the final year of Computer Science Engineering. I live in Hyderabad, India. I am DESIGN enthusiast.\
 
-&nbsp;  I am on the road to become a good programmer. \
+&nbsp;  I am looking out for opportunities to learn relearn skillsets in Web dev and participation in Projects. \
 &nbsp; I'm also interested in Operating systems, Computer Networks UI UX Design.\
 &nbsp; My email mohddfaizan@gmail.com \
 
