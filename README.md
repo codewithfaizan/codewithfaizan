@@ -1,10 +1,13 @@
 
 ### <img src="logo.png" width='1100' align="center"/>
-<h1 align = "center">Developer</h1>
 
 ### &nbsp; <h2 >About me</h1>
 
- - I am Mohammed Faizan, learning Full Stack Web Development in MERN Stack. I am a currently in the final year of Computer Science Engineering. I live in Hyderabad, India. I am DESIGN enthusiast.
+ - I am Mohammed Faizan, learning Full Stack Web Development in MERN Stack. I am a currently in the final year of Computer Science Engineering.
+ - I was a Scholar at Code For India Foundation where I learned Web Development in MERN Stack. I have built Projects using Recact, NodeJS, MongoDB.
+ - 
+
+ - I am DESIGN enthusiast. I Design UI on Figma
  
 
 I am looking out for opportunities to learn relearn skillsets in Web dev and participation in Projects.
