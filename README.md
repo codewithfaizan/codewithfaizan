@@ -61,10 +61,6 @@
 
 <br/>  
 
-
-### &nbsp; <h2>Projects </h2>
-
-
 ### &nbsp; <h2 >Connect with me </h2>
  
 <div align="center">
@@ -76,13 +72,16 @@
 </a>
 <a href="https://www.linkedin.com/in/mohammed-faizan-8390931aa/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<a href="https://medium.com/https://medium.com/@faizanoic.com" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
+<a href="https://hashnode.com/@https://hashnode.com/@faizanoic" target="_blank">
+<img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
+</a>  
 </div> 
 
-<h3>Mail to :</h3> 
-<a href="mailto:faizanoic.com@gmail.com">faizanoic.com@gmail.com</a> &nbsp;
-
-<!-- <p>Mail id 2:<a href="mailt@gmail.com">faizanoic.com@gmail.com</a>  -->
+### &nbsp; Mail to :
+<a href="faizanoic.com@gmail.com">faizanoic.com@gmail.com</a> 
 &nbsp;
 
 ### &nbsp;<h2>Github Stats</h2>
