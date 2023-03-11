@@ -1,5 +1,5 @@
 
-### <img src="name3.jpeg.jpg" width='800' height='400' align="center"/> Hello there !
+### <img src="name3.jpeg.jpg" width='1000' align="center"/> Hello there !
 
 ### 👨🏻‍💻 &nbsp;About Me
 
