@@ -1,5 +1,5 @@
 
-### <img alt="handwavegif" src="/home/faizan/codewithfaizan/name3.jpeg.jpg" width='100' align="center"/> Hello there !
+### <img src="name3.jpeg.jpg" width='100' align="center"/> Hello there !
 
 ### 👨🏻‍💻 &nbsp;About Me
 
