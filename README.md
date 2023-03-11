@@ -9,8 +9,11 @@
  - I am looking out for opportunities to learn-relearn skillsets in Web dev and open to participate in Projects.
 
  ### &nbsp; <h2> Experience </h2>
- - Scholar at Code For India Foundation( Cohort A22) where I learned Web Development in MERN Stack. &nbsp;
-  I have built Projects using React, NodeJS and MongoDB. <img src = "cfi.png" width ='250'  height = '70' align='right'/> &nbsp;
+ - Scholar at Code For India Foundation
+ (Cohort A22) where I learned Web Development in MERN Stack. &nbsp;
+  
+  I have built Projects using React, NodeJS and MongoDB. 
+  <img src = "cfi.png" width ='250'  height = '80' align='right'/> &nbsp;
 
 ### 🛠 &nbsp;Technologies and Tools
 
