@@ -10,8 +10,8 @@
 
  ### &nbsp; <h2> Experience </h2>
  - Scholar at Code For India Foundation
-    (Cohort A22) where I learned Web Development in
-    &nbsp; MERN Stack. where I have built Projects using React, NodeJS and MongoDB. 
+    (Cohort A22) where I learned Web Development in  &nbsp;
+    MERN Stack. where I have built Projects using React, NodeJS and MongoDB. 
   <img src = "cfi.png" width ='250'  height = '80' align='right'/> &nbsp;
 
 ### 🛠 &nbsp;Technologies and Tools
