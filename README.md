@@ -18,7 +18,7 @@
  <br>
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="50%">
 
 
 
@@ -38,7 +38,7 @@
 <a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="50%">
 
 
 
@@ -54,7 +54,6 @@
 <a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
 
 
 
@@ -87,3 +86,9 @@
 &nbsp;
 
 ### &nbsp;<h2>Github Stats</h2>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=codewithfaizan
+&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithfaizan&hide_border=true&layout=compact" align="left" />  
+
+<br/>  
