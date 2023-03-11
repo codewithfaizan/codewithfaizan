@@ -1,13 +1,13 @@
 
-### <img src="name3.jpeg.jpg" width='1000' align="center"/> Hello there !
+### <img src="name3.jpeg.jpg" width='1000' align="center"/>
 
-### 👨🏻‍💻 &nbsp;About Me
+### &nbsp; <h1 align = "center">
 
-💡 &nbsp; I am a coding enthusiast in the area of web development, web designing. Currently enrolled in Cohort A22 Code for India Foundation  \
-💻 &nbsp; I'm pursuing my 3rd year in Computer Science Engineering..\
-🎓&nbsp;  I am on the road to become a good programmer. \
-🌱 &nbsp; I'm also interested in Operating systems, Computer Networks UI UX Design.\
-✉️ &nbsp; My email mohddfaizan@gmail.com \
+ I am Mohammed Faizan, learning Full Stack Web Development in MERN Stack. I am a currently in the final year of Computer Science Engineering. I live in Hyderabad, India. I am DESIGN enthusiast.\
+
+&nbsp;  I am on the road to become a good programmer. \
+&nbsp; I'm also interested in Operating systems, Computer Networks UI UX Design.\
+&nbsp; My email mohddfaizan@gmail.com \
 
 
 ### 🛠 &nbsp;Tech Stack
