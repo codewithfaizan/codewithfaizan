@@ -1,7 +1,7 @@
 
 ### <img src="name3.jpeg.jpg" width='1000' align="center"/>
 
-### &nbsp; <h1 align = "center">
+### &nbsp; <h3 align = "center"> About me</h1>
 
  I am Mohammed Faizan, learning Full Stack Web Development in MERN Stack. I am a currently in the final year of Computer Science Engineering. I live in Hyderabad, India. I am DESIGN enthusiast.\
 
