@@ -8,10 +8,10 @@
  - I have worked on various Projects build on MERN Stack that helped me gain understanding in Web and now I am currently focusing on Frontend Technology. I am DESIGN enthusiast and I also Design User Interfaces( UI ) on Figma.
  - I am looking out for opportunities to learn-relearn skillsets in Web dev and open to participate in Projects.
 
- ### &nbsp; <h2> Experience </h2>  <img src = "cfi.png" width ='auto' height = '90' align="right"/> &nbsp;
- - Scholar at Code For India Foundation (Cohort A22) where I learned Web Development in <br>
+ ### &nbsp; <h2> Experience </h2>
+ - Scholar at Code For India Foundation (Cohort A22) where I learned Web Development in <br> &nbsp;
     MERN Stack where I have built Projects like Font Converter, Github Search Engine,  &nbsp; <br> Book Management System, Task Management Application etc 
- 
+  <img src = "cfi.png" width ='auto' height = '90' align="right"/> &nbsp;
   - Participated in various interstate and national Hackathons online and offline. <br>
   - Attended Events and meetups related to Web3 and Design. 
 
@@ -23,14 +23,26 @@
 ### &nbsp; <h2>Projects </h2>
 
 
-### &nbsp; <h2>Communities </h2>
-
-
 ### 📫 &nbsp; <h2>Connect with me </h2>
+ 
+<div align="center">
+<a href="https://github.com/codewithfaizan" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/callitneo" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/mohammed-faizan-8390931aa/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+</div> 
 
+<div align = 'center' > <h3>Mail to :</h3>
+<a href="mailto:faizanoic.com@gmail.com">faizanoic.com@gmail.com</a> 
 
-<a href="https://www.linkedin.com/in/mohammed-faizan-8390931aa/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:mohddfaizan@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="mailto:faizanoic.com@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
+</div>&nbsp;
 
 ### &nbsp;<h2>Github Stats</h2>
