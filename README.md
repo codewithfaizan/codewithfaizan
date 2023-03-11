@@ -11,7 +11,7 @@
  ### &nbsp; <h2> Experience </h2>
  - Scholar at Code For India Foundation (Cohort A22) where I learned Web Development in <br> &nbsp;
     MERN Stack where I have built Projects like Font Converter, Github Search Engine,  &nbsp; <br> Book Management System, Task Management Application etc 
-  <img src = "cfi.png" width ='auto' height = '80' align="right"/> &nbsp;
+  <img src = "cfi.png" width ='280' height = '100' align="right"/> &nbsp;
   - Participated in various interstate and national Hackathons online and offline. <br>
   - Attended Events and meetups related to Web3 and Design. 
 
