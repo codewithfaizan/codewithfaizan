@@ -80,7 +80,7 @@
 </a>  
 </div> 
 
-<h2> Mail to : </h2> <a href="faizanoic.com@gmail.com">faizanoic.com@gmail.com</a> 
+<h2> Mail to : </h2> <a href="faizanoic.com@gmail.com">faizanoic.com@gmail.com</a> <br>
 &nbsp;
 
 <!-- ### &nbsp;<h2>Github Stats</h2> -->
@@ -89,7 +89,7 @@
 &show_icons=true&count_private=true&hide_border=true" align="center" /></div>   -->
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithfaizan&hide_border=true&layout=compact" align="left" />   -->
-
+ <h2>Stats :</h2> &nbsp;
 <br/>  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithfaizan&hide_border=true&layout=compact" align="left" />  
 
