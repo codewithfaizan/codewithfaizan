@@ -7,6 +7,7 @@
  - My Interest in exploring various Designs in Websites has brought me into Web Tech Domain. I love to design Frontend. I'm Determined in developing new things by collaborating in Teams and communities. Hooked in exploring Trends in Technologies and apart from that I'm interested in World Politics too.
  - I have worked on various Projects build on MERN Stack that helped me gain understanding in Web and now I am currently focusing on Frontend Technology. I am DESIGN enthusiast and I also Design User Interfaces( UI ) on Figma.
  - I am looking out for opportunities to learn-relearn skillsets in Web dev and open to participate in Projects.
+ - I am currently learning VueJS and Tailwind CSS because I find it quite easy and to add up to my skill set.
 
  ### &nbsp; <h2> Experience </h2>
  - Scholar at Code For India Foundation (Cohort A22) where I learned Web Development in <br> &nbsp;
@@ -81,7 +82,7 @@
 </a>  
 </div> 
 
-<h2> Mail to : </h2> <a href="faizanoic.com@gmail.com">faizanoic.com@gmail.com</a> 
+<h2> Mail to : </h2> <a href="faizanoic.com@gmail.com">faizanoic.com@gmail.com</a> <br>
 &nbsp;
 
 <!-- ### &nbsp;<h2>Github Stats</h2> -->
@@ -90,7 +91,7 @@
 &show_icons=true&count_private=true&hide_border=true" align="center" /></div>   -->
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithfaizan&hide_border=true&layout=compact" align="left" />   -->
-
+ <h2>Stats :</h2> &nbsp;
 <br/>  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithfaizan&hide_border=true&layout=compact" align="left" />  
 
