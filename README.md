@@ -9,12 +9,14 @@
  - I am looking out for opportunities to learn-relearn skillsets in Web dev and open to participate in Projects.
  - I am currently learning VueJS and Tailwind CSS because I find it quite easy and to add up to my skill set.
 
- ### &nbsp; <h2> Experience </h2>
+ ### &nbsp; <h2> Experience </h2> <br>
+  <h3>Code For India </h3>
  - Scholar at Code For India Foundation (Cohort A22) where I learned Web Development in <br> &nbsp;
     MERN Stack where I have built Projects like Font Converter, Github Search Engine,  &nbsp; <br> Book Management System, Task Management Application etc 
   <img src = "cfi.png" width ='auto' height = '80' align="right"/> &nbsp; 
   - Participated in various interstate and national Hackathons online and offline. <br>
-  - Attended Events and meetups related to Web3 and Design. 
+  - Attended Events and meetups related to Web3 and Design. <br>
+  <h3>Kisai</h3>
   - Currently I'm doing an Internship at kisai technologies
  <img src = "logo-dark.svg" width ='125' height = '75' width= '' align="right"/> &nbsp;
  <br>
