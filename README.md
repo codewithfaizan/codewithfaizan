@@ -15,7 +15,7 @@
   <img src = "cfi.png" width ='auto' height = '80' align="right"/> &nbsp; 
   - Participated in various interstate and national Hackathons online and offline. <br>
   - Attended Events and meetups related to Web3 and Design. 
-  - Currently I'm an Internship at kisai technologies
+  - Currently I'm doing an Internship at kisai technologies
  <img src = "logo-dark.svg" width ='125' height = '75' width= '' align="right"/> &nbsp;
  <br>
 
