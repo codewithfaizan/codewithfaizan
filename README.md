@@ -14,9 +14,10 @@
   <h3>Kisai</h3>
  
  - Intern at India's Largest Incubation Center here in Hyderabad.
+ - <img src = "logo.svg" width ='125' height = '75' width= '' align="right"/> &nbsp;
  - Front End Developer in Vue JS and Tailwind CSS.
  - Building Project on Ticket System 
- <img src = "logo.svg" width ='125' height = '75' width= '' align="right"/> &nbsp;
+ 
  <br>
   <h3>Code For India </h3>
  - Scholar at Code For India Foundation (Cohort A22) where I learned Web Development in MERN Stack where I have built <br> &nbsp;
@@ -25,11 +26,8 @@
  - Participated in various interstate and national Hackathons online and offline. <br>
  - Attended Events and meetups related to Web3 and Design. <br>
 
-
 ## My Skill Set  
 <table><tr><td valign="top" width="50%">
-
-
 
 ### Frontend  
 <div align="center">  
