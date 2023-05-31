@@ -14,7 +14,7 @@
   <h3>Kisai</h3>
  
  - Intern at India's Largest Incubation Center here in Hyderabad.
- - <img src = "logo.svg" width ='125' height = '75' width= '' align="right"/> &nbsp;
+ <img src = "logo.svg" width ='125' height = '75' width= '' align="right"/> &nbsp;
  - Front End Developer in Vue JS and Tailwind CSS.
  - Building Project on Ticket System 
  
