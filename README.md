@@ -18,8 +18,7 @@
  <br>
   <h3>Code For India </h3>
  - Scholar at Code For India Foundation (Cohort A22) where I learned Web Development in MERN Stack where I have built <br> &nbsp;
- - Projects like Font Converter, Github Search Engine,  &nbsp; <br>
- Book Management System, Task Management Application etc 
+ Projects like Font Converter, Github Search Engine,  &nbsp; <br> Book Management System, Task Management Application etc 
   <img src = "cfi.png" width ='auto' height = '80' align="right"/> &nbsp; 
  - Participated in various interstate and national Hackathons online and offline. <br>
  - Attended Events and meetups related to Web3 and Design. <br>
