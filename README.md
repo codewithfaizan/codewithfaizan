@@ -26,7 +26,8 @@
  - Participated in various interstate and national Hackathons online and offline. <br>
  - Attended Events and meetups related to Web3 and Design. <br>
 
-## My Skill Set  
+
+## &nbsp; <h2> My Skill Set   </h2> <br>
 <table><tr><td valign="top" width="50%">
 
 ### Frontend  
