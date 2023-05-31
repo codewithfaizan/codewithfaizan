@@ -12,8 +12,8 @@
  ### &nbsp; <h2> Experience </h2> <br>
  
   <h3>Kisai</h3>
-  - Currently I'm doing an Internship at kisai technologies
- <img src = "[logo-dark.svg](https://tenb.forgestage.kisai.dev/logo.svg)" width ='125' height = '75' width= '' align="right"/> &nbsp;
+  - Intern at India's Largest Incubation Center here in Hyderabad
+ <img src = "logo.svg" width ='125' height = '75' width= '' align="right"/> &nbsp;
  <br>
   <h3>Code For India </h3>
   - Scholar at Code For India Foundation (Cohort A22) where I learned Web Development in <br> &nbsp;
