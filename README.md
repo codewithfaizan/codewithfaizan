@@ -13,7 +13,7 @@
  
   <h3>Kisai</h3>
  
- - Intern at India's Largest Incubation Center here in Hyderabad.
+ - Intern at India's Largest Incubation Center T-Hub https://t-hub.co/. Woking with kisai Technologies as a Front End Developer in building a Software development platform that is used to built other software products
  <img src = "logo.svg" width ='125' height = '75' width= '' align="right"/> &nbsp;
  - Front End Developer in Vue JS and Tailwind CSS.
  - Building Project on Ticket System 
