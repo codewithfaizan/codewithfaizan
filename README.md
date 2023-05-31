@@ -7,7 +7,7 @@
  - My Interest in exploring various Designs in Websites has brought me into Web Tech Domain. I love to design Frontend. I'm Determined in developing new things by collaborating in Teams and communities. Hooked in exploring Trends in Technologies and apart from that I'm interested in World Politics too.
  - I have worked on various Projects build on MERN Stack that helped me gain understanding in Web and now I am currently focusing on Frontend Technology. I am DESIGN enthusiast and I also Design User Interfaces( UI ) on Figma.
  - I am looking out for opportunities to learn-relearn skillsets in Web dev and open to participate in Projects.
- - I am currently learning VueJS and Tailwind CSS because I find it quite easy and to add up to my skill set.
+ - I am currently learning VueJS and Tailwind CSS, building project on Ticketing System.
 
  ### &nbsp; <h2> Experience </h2> <br>
  
