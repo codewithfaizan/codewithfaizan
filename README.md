@@ -16,9 +16,10 @@
  - Intern at India's Largest Incubation Center T-Hub https://t-hub.co/. Woking with kisai Technologies as a Front End Developer in building a Software development platform that is used to built other software products.
  - I had the opportunity to work on a ticketing system project that aimed to streamline the process of raising and managing tickets within the organization
  - I actively participated in learning new Javascript framework VueJS with Tailwind CSS upon which the project was build. Collaborated with a team of developers to design the ticketing system architecture, considering user requirements and best practices.
- - Engaged in active discussions, providing valuable feedback and suggestions to improve project outcomes. 
+ - Engaged in active discussions, providing valuable feedback and suggestions to improve &nbsp; <br> project outcomes. 
+  <img src = "logo.svg" width ='125' height = '75' width= '' align="right"/> &nbsp;
  - Participated in project meetings and contributed ideas for enhancing project visibility, community engagement, and documentation practices.
- <img src = "logo.svg" width ='125' height = '75' width= '' align="right"/> &nbsp;
+
  <br>
   <h3>Code For India </h3>
   - Scholar at Code For India Foundation (Cohort A22) where I learned Full Stack Web Development in MERN Stack and have built projects <br> &nbsp;
